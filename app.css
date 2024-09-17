@@ -35,7 +35,7 @@ body {
 }
 
 .ReasonShow {
-    background-color: #ffe5ec;
+    background-image: url(images/fine.gif);
     background-size: cover;
     width: 50rem;
     height: 40rem;
@@ -51,7 +51,7 @@ body {
 }
 
 .txt {
-    color: #fb6f92;
+    color: #00bbf9;
     width: 100%;
     font-size: 15px;
     font-weight: 600;
@@ -62,7 +62,7 @@ body {
 }
 
 .bye {
-    color: #fb6f92;
+    color: #00bbf9;
     width: 100%;
     font-size: 15px;
     font-weight: 600;
